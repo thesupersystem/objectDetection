@@ -6,6 +6,9 @@ pip install cython pillow>=7.0.0 numpy>=1.18.1 opencv-python>=4.1.2 torch>=1.9.0
 
 pip install imageai --upgrade
 
+#Download your models from here :
+
+
 
 
 
