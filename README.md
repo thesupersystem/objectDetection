@@ -8,6 +8,8 @@ pip install imageai --upgrade
 
 #Download your models from here :
 
+https://imageai.readthedocs.io/en/latest/detection/
+
 
 
 
